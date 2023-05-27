@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/drawable/filleheavybg.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/drawable/fillelightbg.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_animation.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_layout.xml" value="0.2109375" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_scale_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_scroll.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_view_animation.xml" value="0.3515625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_first.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_second.xml" value="0.3515625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/item_hosgrid.xml" value="0.3515625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Demo/app/src/main/res/layout/item_image.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>

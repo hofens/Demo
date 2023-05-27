@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Demo">
         <activity
-            android:name=".LayoutActivity"
+            android:name=".ScrollActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,19 +19,21 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".LayoutActivity"
+            android:exported="true"></activity>
+        <activity
             android:name=".animation.ViewAnimation"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".animation.AnimationActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".ScaleLayout"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="true">
+        </activity>
     </application>
 
 </manifest>
