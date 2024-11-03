@@ -8,7 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.demo.MainActivity;
 import com.example.demo.R;
 import com.example.demo.clickListener;
 

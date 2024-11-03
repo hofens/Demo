@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.fragment;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.demo.R;
+import com.example.demo.clickListener;
 import com.example.demo.fragment.FirstFragment;
 import com.example.demo.fragment.SecondFragment;
 

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.scale;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import com.example.demo.R;
 
 public class LayoutActivity extends AppCompatActivity {
 

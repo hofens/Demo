@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.scroll;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -7,8 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.demo.scroll.DateBean;
-import com.example.demo.scroll.HosGridViewAdapter;
+import com.example.demo.R;
 
 import java.util.ArrayList;
 
